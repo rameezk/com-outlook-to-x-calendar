@@ -10,11 +10,11 @@ Outlook calendar events are retrieved by interacting via COM and then writing th
 
 ## OS Support
 This has only been tested on the following OS's:
-[x] - Windows
+- [x] Windows
 
 ## Supported Calendars
 Currently, the following calendar's are supported:
-[x] - Google Calendar
+- [x] Google Calendar
 
 ## Scheduling
 On Windows, make use of the Task Scheduler to periodically run the provided batch script `run.bat`.
